@@ -1,0 +1,25 @@
+{
+  "name": "Dr. Purnata's Dental & Cosmetic Care",
+  "short_name": "Dr. Purnata's Dental Care",
+  "description": "Advanced dental & cosmetic care with Dr. Purnata Manohar in Pune",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0284c7",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/images/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["health", "medical", "dental"],
+  "lang": "en",
+  "dir": "ltr"
+} 
